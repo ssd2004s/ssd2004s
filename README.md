@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sanika dabade
-- 👀 I’m interested in web designing and ui xi designing
-- 🌱 I’m currently learning front end development
+- 👋 Hi, I’m @sanika dabade i am a java fullstack developer. 
+- 👀 I’m interesting in the front end and backend developer 
+- 🌱 I’m a fullstack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
