@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @sanika dabade i am a java fullstack developer. 
-- 👀 I’m interesting in the front end and backend developer 
-- 🌱 I’m a fullstack developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m **Sanika Dabade**
 
-<!---
-ssd2004s/ssd2004s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in **Front-End and Back-End Development**
+
+🌱 I’m a **Java Full Stack Developer**, working with technologies like  
+**Java, Spring Boot, HTML, CSS, JavaScript, React, SQL**
+
+💞️ I’m looking to collaborate on **web development projects, full-stack applications, and open-source contributions**
+
+📫 How to reach me:  
+- 📧 Email: sanika.dabade2004@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/sanika-dabade  
+
+😄 Pronouns: **She / Her**
+
+⚡ Fun fact: I love turning ideas into real web applications and enjoy learning new technologies 🚀
